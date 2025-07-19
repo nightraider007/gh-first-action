@@ -1,4 +1,4 @@
-name: First Workflow
+name: 2nd Workflow
 on: workflow_dispatch
 jobs: 
   first-job:
